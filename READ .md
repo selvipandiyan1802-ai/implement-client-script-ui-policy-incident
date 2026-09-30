@@ -1,28 +1,27 @@
-# Implement Client Script and UI Policy
+# ServiceNow Client Script and UI Policy - Incident
 
-## Project Overview
+## Project Description
+This project implements Client Scripts and UI Policies
+on the Incident table in ServiceNow.
 
-This project demonstrates the implementation of Client Scripts and UI Policies in ServiceNow.
+## Project Structure
 
-## Project Title
+- Brainstorming & Ideation
+- Project Demonstration
+- Project Design Phase
+- Project Development Phase
+- Project Documentation
+- Project Planning Phase
+- Project Testing
+- Requirement Analysis
 
-Implement Client Script and UI Policy
-
-## Platform
-
-ServiceNow
-
-## Implementation
-
-- Created and configured Client Scripts.
-- Created and configured UI Policies.
-- Applied the configurations to the Incident table.
-- Tested the functionality in the ServiceNow instance.
+## Technologies Used
+- ServiceNow
+- Client Script
+- UI Policy
+- Incident Table
 
 ## Objective
-
-The objective of this project is to control form behavior and improve the user experience in ServiceNow using Client Scripts and UI Policies.
-
-## Result
-
-The Client Script and UI Policy configurations were successfully implemented and tested in the ServiceNow instance.
+The main objective of this project is to implement
+Client Scripts and UI Policies to improve the
+Incident form functionality in ServiceNow.
